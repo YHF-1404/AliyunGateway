@@ -19,15 +19,7 @@
 #include "lwip/sys.h"
 
 #include "client_list.h"
-// #include <unistd.h>
-//#include <pthread.h>
-// #include <stdio.h>
-// #include "aiot_state_api.h"
-// #include "aiot_sysdep_api.h"
-// #include "aiot_mqtt_api.h"
-// #include "aiot_dm_api.h"
-// #include "aiot_subdev_api.h"
-// #include "cJSON.h"
+
 #include "nrf_comm_use.h"
 #include "LinkToAliyun.h"
 #include "wifi_use.h"
