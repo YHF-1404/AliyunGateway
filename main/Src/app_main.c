@@ -25,7 +25,6 @@
 #include "wifi_use.h"
 
 #include "nrf24l01.h"
-//#include "esp_wifi.h"
 
 static const char *TAG = "app_main";
 
