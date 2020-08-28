@@ -82,50 +82,6 @@ void app_main(void)
             ESP_LOGE(TAG, "UNEXPECTED EVENT");
         }
     }
-    // ClientServerTypedef dsds = 
-    // {
-    //     .client_id = "yuyu",
-    //     .nrf24l01_RW_cmd = 0xAA
-    // };
-    // ClientServerTypedef psps = 
-    // {
-    //     .client_id = "tytty",
-    //     .nrf24l01_RW_cmd = 0xAA
-    // };
-    // ClientServerTypedef asas = 
-    // {
-    //     .client_id = "qwws",
-    //     .nrf24l01_RW_cmd = 0xAA
-    // };
-    // head = InitList(head);
-    // head = CutAllListItemData(head);
-    // head = Found_ModifyListItemData(head,&dsds);
-    // head = Found_ModifyListItemData(head,&psps);
-    // head = Found_ModifyListItemData(head,&asas);
-    // ESP_LOGI(TAG,"1");
-    // CutListItemDataNum(head);
-    // head = CutAllListItemData(head);
-    // head = CutOneListItemData(head,"yuyu");
-    // head = RW_cmdDeleItem(head);
-    // ESP_LOGI(TAG,"2");
-    // head = CutAllListItemData(head);
-    // // head = FoundListItemData(head,"qwws");
-    // // head->clientserver.nrf24l01_RW_cmd = 0xBB;
-    // head = CutOneListItemData(head,"qwws");
-    // head = RW_cmdDeleItem(head);
-    // head = CleanAllRW_cmd(head);
-    // ESP_LOGI(TAG,"3");
-    // head = CutAllListItemData(head);
-    // // head = FoundListItemData(head,"tytty");
-    // // head->clientserver.nrf24l01_RW_cmd = 0xBB;
-    // head = CutOneListItemData(head,"tytty");
-    // head = RW_cmdDeleItem(head);
-    // ESP_LOGI(TAG,"4");
-    // head = CutAllListItemData(head);
-    // while (1)
-    // {
-    //     sleap(1);
-    //     head = CutAllListItemData(head);
-    // }
+
 
 }
