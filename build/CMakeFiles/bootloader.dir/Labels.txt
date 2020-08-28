@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/yhf/aliyun_iot/AliyunGatway/build/CMakeFiles/bootloader
+/home/yhf/aliyun_iot/AliyunGatway/build/CMakeFiles/bootloader.rule
+/home/yhf/aliyun_iot/AliyunGatway/build/CMakeFiles/bootloader-complete.rule
+/home/yhf/aliyun_iot/AliyunGatway/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/yhf/aliyun_iot/AliyunGatway/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/yhf/aliyun_iot/AliyunGatway/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/yhf/aliyun_iot/AliyunGatway/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/yhf/aliyun_iot/AliyunGatway/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/yhf/aliyun_iot/AliyunGatway/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/yhf/aliyun_iot/AliyunGatway/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

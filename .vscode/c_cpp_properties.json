@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/yhf/esp/esp-idf/**",
+                "/home/yhf/esp/esp-idf/components/driver/include",
+                "${workspaceFolder}/main/Inc",
+                "${workspaceFolder}/components/NVS_USE",
+                "${workspaceFolder}/components/YHF_List",
+                "/home/yhf/esp/esp-idf/components/LinkSDK/core",
+                "${workspaceFolder}/components/data-model",
+                "${workspaceFolder}/components/NRF24L01_LIB/Inc",
+                "${workspaceFolder}/components/conn_mgr"
+            ],
+            "defines": [],
+            "compilerPath": "/home/yhf/toolchains/gcc-arm-none-eabi-9-2020-q2-update/bin/arm-none-eabi-gcc",
+            "cStandard": "c11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
